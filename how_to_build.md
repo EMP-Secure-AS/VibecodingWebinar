@@ -7,8 +7,8 @@ En detaljert guide for hvordan du kan lage din egen moderne webside og publisere
 ## Steg 1: Be Copilot Chat om å generere HTML-siden din
 
 ### 1.1 Åpne Copilot Chat
-- Gå til [chat.openai.com](https://chat.openai.com) eller bruk Copilot direkte i VS Code (som vi installerer senere)
-- Du trenger en OpenAI-konto (ChatGPT Plus anbefales for best resultat)
+- Gå til copilot  eller bruk Copilot direkte i VS Code (som vi installerer senere)
+- bruk copilot
 
 ### 1.2 Skriv en detaljert prompt
 Gi Copilot en klar beskrivelse av hva du ønsker. Eksempel:
@@ -311,11 +311,11 @@ git commit -m "update"              # ❌ Dårlig
 
 ## Neste steg: Introduksjon til Agenter
 
-Nå som du har en webinarside live, er du klar for Leksjon 2, hvor vi lærer hvordan du bruker **GitHub Copilot** som din AI-pair programmer for å:
-- Generere HTML/CSS automatisk
-- Forbedre designet
-- Legge til interaktivitet
-- Bygge raskere og smartere
+Nå som du har en webinarside live, er du klar for Leksjon 2, hvor vi lærer hvordan du bruker **GitHub Copilot** som din AI-pair programmer 
+
+hva om du ikke gidder å gjøre alle disse stegene? kan en agent gjøre alt dette for meg? 
+
+hint; markdown, agent chat, og helautomatisering
 
 **Stay tuned!** 🚀
 
